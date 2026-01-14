@@ -43,4 +43,4 @@ def main():
     print("Run 'streamlit run app/main.py' to launch the dashboard.")
 
 if __name__ == "__main__":
-    main()
+    main(   )
