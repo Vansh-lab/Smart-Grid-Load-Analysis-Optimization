@@ -59,22 +59,26 @@ Smart-Grid-Load-Analysis-Optimization/
    Graphs and plots help in understanding load patterns and improvements.
 
 How to Run the Project
-1️⃣ Clone the Repository
+1️
+Clone the Repository
 bash
 git clone https://github.com/Vansh-lab/Smart-Grid-Load-Analysis-Optimization.git
 cd Smart-Grid-Load-Analysis-Optimization
 
-2️⃣ Create & Activate Virtual Environment
+2️
+Create & Activate Virtual Environment
 python -m venv venv
 Windows
 venv\Scripts\activate
 Linux / Mac
 source venv/bin/activate
 
-3️⃣ Install Dependencies
+3️
+Install Dependencies
 pip install -r requirements.txt
 
-4️⃣ Run the Project
+4️
+Run the Project
 python main.py
 
 (Optional) Run Streamlit Dashboard
